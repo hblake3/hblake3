@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hunter!</h1>
 <h3 align="center">A passionate Software Engineering graduate student from Connecticut.</h3>
 
-- 🔭 I’m currently working on [a personal blog web application](https://github.com/hblake3/Blog). This project is being created to showcase my ability to create a CRUD application using PostgreSQL as a backend with API connections to Supabase. It is still a work in progress, but you can view the live page [here](https://hblake3.github.io/Blog/)!
+- 🔭 I’m currently working on [a personal blog web application](https://github.com/hblake3/ReaectBlog). This project is being created to showcase my ability to create a CRUD application using PostgreSQL as a backend with API connections to Supabase. It is still a work in progress, but you can view the live page [here](https://hblake3.github.io/Blog/)!
 
 - 🌱 I’m currently learning **full-stack web development**.
 
