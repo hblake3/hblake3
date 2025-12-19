@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hunter!</h1>
-<h3 align="center">A passionate Software Engineering graduate student from Connecticut.</h3>
-<p>With a career path focusing on both technology and business, combined with a passion for software engineering, I am eager to bring my skills and enthusiasm to your team.</p>
-
-- 🛠️ Current project: [Library Management Web Application](https://github.com/hblake3/LibraryManagementSystem)
 
 - 👨‍💻 View all projects: [https://github.com/hblake3/](https://github.com/hblake3/)
 
